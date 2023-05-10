@@ -384,7 +384,7 @@
     .work__img img {
         width: 100%;
         margin: 0 0 0px;
-        height: 270px;
+        height: 260px;
     }
 
     .about__img img {
@@ -409,39 +409,39 @@
     }
 
     .warning {
-        font-size: 11px;
-        line-height: 15px;
+        font-size: 10px;
+        line-height: 12px;
         text-align: left;
         color: #D30340;
         padding: 0 0 0 0px;
         width: 100%;
-        margin: 15px auto 0 auto;
+        margin: 10px auto 0 auto;
         background: none;
     }
 
     .about__title {
-        font-size: 13px;
-        line-height: 15px;
+        font-size: 11px;
+        line-height: 12px;
         color: #0D4E83;
         margin: 0 0 0 0px;
     }
 
     .last__title_mb .last__title2 {
-        font-size: 12px !important;
-        line-height: 13px;
+        font-size: 11px !important;
+        line-height: 12px;
     }
 
     .last__title_mb .last__title {
         font-size: 13px !important;
-        margin: 13px 0 0 0;
+        margin: 9px 0 0 0;
     }
 
     .work__title_mb .work__title {
         font-size: 13px !important;
         display: block;
-        margin: 14px 0px 0 0px;
+        margin: 10px 0px 0 0px;
         text-align: left;
-        line-height: 18px;
+        line-height: 15px;
     }
 }
 
